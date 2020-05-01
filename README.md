@@ -5,5 +5,5 @@
 npm run dev
 
 # 生产部署
-1、服务器上先全局安装pm2
+1、服务器上先全局安装pm2<br>
 2、npm run prd
